@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am Vivek Singh 👋, 
+**I am Vivek Singh 👋,**
 
 I’m an web developer, I currently work as a Software Engineer at KaHa Pte Ltd. I have hands on experience in developing web application from scratch. 
 
