@@ -11,4 +11,11 @@ I’m an web developer, I currently work as a Software Engineer at KaHa Pte Ltd.
 - 💬 Ask me about Places i want to travel
 - 📫 How to reach me: vrathoud8@gmail.com or Instagram [@rvsvivek](https://www.instagram.com/rvsvivek/)
 - 🖼️ I love to travel and click pictures you can see some of them at [Pexels](https://www.pexels.com/@vivek-singh-987223)
-- ⚡ Fun fact: ...
+
+
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=rviveksingh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true)
+)
+
