@@ -13,8 +13,9 @@ I’m an web developer, I currently work as a Software Engineer at KaHa Pte Ltd.
 - 🖼️ I love to travel and click pictures you can see some of them at [Pexels](https://www.pexels.com/@vivek-singh-987223)
 
 
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=rviveksingh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=rviveksingh&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rviveksingh&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
