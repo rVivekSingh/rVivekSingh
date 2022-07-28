@@ -2,7 +2,7 @@
 
 **I am Vivek Singh 👋,**
 
-I’m an web developer, I currently work as a Senior Software Engineer at Raktuten India. I have hands on experience in developing web application from scratch. 
+I’m an web developer, I currently work as a Senior Software Engineer 1 at Raktuten India. I have hands on experience in developing web application from scratch. 
 
 - 🔭 I’m currently working as Web Developer
 - 👨🏻‍💻 My tech stack is i know Java, Sprint Boot, Vue.js, JavaScript, HTML & CSS.
@@ -16,6 +16,3 @@ I’m an web developer, I currently work as a Senior Software Engineer at Raktut
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=rviveksingh&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rviveksingh&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
