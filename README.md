@@ -2,7 +2,7 @@
 
 **I am Vivek Singh 👋,**
 
-I’m an web developer, I currently work as a Software Engineer at KaHa Pte Ltd. I have hands on experience in developing web application from scratch. 
+I’m an web developer, I currently work as a Senior Software Engineer at Raktuten India. I have hands on experience in developing web application from scratch. 
 
 - 🔭 I’m currently working as Web Developer
 - 👨🏻‍💻 My tech stack is i know Java, Sprint Boot, Vue.js, JavaScript, HTML & CSS.
