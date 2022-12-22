@@ -4,6 +4,8 @@
 
 I’m an web developer, I currently work as a Senior Software Engineer 1 at Raktuten India. I have hands on experience in developing web application from scratch. 
 
+
+![](https://komarev.com/ghpvc/?username=rviveksingh&label=PROFILE+VIEWS&color=green&style=flat-square)
 - 🔭 I’m currently working as Web Developer
 - 👨🏻‍💻 My tech stack is i know Java, Sprint Boot, Vue.js, JavaScript, HTML & CSS.
 - 🌱 I’m currently learning something(i won't tell)
@@ -11,6 +13,7 @@ I’m an web developer, I currently work as a Senior Software Engineer 1 at Rakt
 - 💬 Ask me about Places i want to travel
 - 📫 How to reach me: vrathoud8@gmail.com or Instagram [@rvsvivek](https://www.instagram.com/rvsvivek/)
 - 🖼️ I love to travel and click pictures you can see some of them at [Pexels](https://www.pexels.com/@vivek-singh-987223)
+
 
 
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=rviveksingh&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
