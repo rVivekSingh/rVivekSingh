@@ -12,7 +12,7 @@ a seasoned Senior Software Engineer at Rakuten India with a passion for crafting
 - 🖼️ I love to travel and click pictures you can see some of them at [Pexels](https://www.pexels.com/@vivek-singh-987223)
 
 
-![rviveksingh's Stats](https://github-readme-stats.vercel.app/api?username=rviveksingh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![rviveksingh's Stats](https://github-readme-stats.vercel.app/api?username=rviveksingh&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 
 [![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rviveksingh&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
